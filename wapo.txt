@@ -1,1 +1,8 @@
-https://www.washingtonpost.com/arcio/rss/category/politics/ wapo politics
+https://www.washingtonpost.com/arcio/rss/category/politics/ wapo politics aggregate
+http://feeds.washingtonpost.com/rss/rss_fact-checker wapo fact-checker
+http://feeds.washingtonpost.com/rss/rss_the-fix wapo
+https://www.washingtonpost.com/arcio/rss/category/opinions/ wapo opinion aggregate
+http://feeds.washingtonpost.com/rss/rss_compost wapo opinion aggregate
+http://feeds.washingtonpost.com/rss/rss_erik-wemple wapo opinion
+http://feeds.washingtonpost.com/rss/rss_rampage wapo opinion
+https://www.washingtonpost.com/arcio/rss/author/George%20F%20-Will/ wapo opinion
